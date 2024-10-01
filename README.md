@@ -9,3 +9,8 @@ homePage: show the list of players and user can vote
 rankPage: show the list of players rank
 
 Toast: defined hook to show message with the redux
+
+PC:
+![failed](https://github.com/Arthaszs007/resource/blob/main/PCScreen.png?raw=true)
+Mobile:
+![failed](https://github.com/Arthaszs007/resource/blob/main/PhoneScreen.png?raw=true)
